@@ -1,5 +1,4 @@
 <script>
-  import Button from "./Button.svelte";
   import InputField from "./InputField.svelte"
   import ListField from "./ListField.svelte"
   import FooterField from "./FooterField.svelte"
